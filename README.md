@@ -1,3 +1,5 @@
+<!-- Project overview and setup guide. -->
+
 # Chat App
 
 A full-stack, real-time chat application built with the MERN stack (MongoDB, Express, React, Node.js) and Socket.IO. The frontend features a beautiful, modern UI powered by Shadcn UI and Tailwind CSS v4.
